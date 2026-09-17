@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Outer Rounded Badge Base -->
+    <path
+        android:fillColor="#1E40AF"
+        android:pathData="M24,4 L96,4 C107,4 116,13 116,24 L116,96 C116,107 107,116 96,116 L24,116 C13,116 4,107 4,96 L4,24 C4,13 13,4 24,4 Z" />
+
+    <!-- Center Graduation Cap -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,22 L20,38 L60,54 L100,38 Z" />
+
+    <!-- Cap Under Rim -->
+    <path
+        android:fillColor="#DBEAFE"
+        android:pathData="M34,46 L34,62 C34,73 86,73 86,62 L86,46 L60,56 Z" />
+
+    <!-- Tassel -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M92,40 L95,60 C95,63 91,65 91,70 L97,70 C97,65 93,63 93,60 Z" />
+
+    <!-- Monogram E / Ribbon -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M50,52 L72,52 C75,52 77,54 77,57 C77,60 75,62 72,62 L56,62 L56,67 L70,67 C73,67 75,69 75,72 C75,75 73,77 70,77 L50,77 C46,77 44,75 44,72 L44,57 C44,54 46,52 50,52 Z" />
+
+    <!-- Open Book Pages Left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,80 C47,77 30,78 18,85 C18,97 32,101 58,95 Z" />
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M58,84 C47,81 32,82 22,88 C22,98 34,103 58,98 Z" />
+
+    <!-- Open Book Pages Right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,80 C73,77 90,78 102,85 C102,97 88,101 62,95 Z" />
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M62,84 C73,81 88,82 98,88 C98,98 86,103 62,98 Z" />
+
+    <!-- Book Spine -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M58,80 L62,80 L62,102 L58,102 Z" />
+</vector>

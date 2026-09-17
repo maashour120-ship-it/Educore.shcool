@@ -1,0 +1,6 @@
+{
+  "name": "Educore",
+  "description": "Educore - Educational management platform for students, teachers, and supervisors with attendance, grades, and exams",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

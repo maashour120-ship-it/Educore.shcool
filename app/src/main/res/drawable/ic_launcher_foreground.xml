@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.65"
+        android:scaleY="0.65"
+        android:translateX="18.9"
+        android:translateY="18.9">
+        <!-- Graduation Cap Base -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,18 L18,34 L54,50 L90,34 Z" />
+        <!-- Graduation Cap Under Rim -->
+        <path
+            android:fillColor="#E0E7FF"
+            android:pathData="M30,42 L30,58 C30,68 78,68 78,58 L78,42 L54,52 Z" />
+        <!-- Tassel -->
+        <path
+            android:fillColor="#93C5FD"
+            android:pathData="M84,36 L86,54 C86,56 83,58 83,62 L87,62 C87,58 84,56 84,54 Z" />
+        <!-- Center Stylized 'E' Ribbon / Monogram -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M44,46 L64,46 C67,46 69,48 69,51 C69,54 67,56 64,56 L50,56 L50,60 L62,60 C65,60 67,62 67,65 C67,68 65,70 62,70 L44,70 C41,70 39,68 39,65 L39,51 C39,48 41,46 44,46 Z" />
+        <!-- Left Page -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M52,73 C42,70 26,71 16,77 C16,87 28,91 52,86 Z" />
+        <path
+            android:fillColor="#60A5FA"
+            android:pathData="M52,77 C42,74 28,75 20,80 C20,88 30,93 52,89 Z" />
+        <!-- Right Page -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M56,73 C66,70 82,71 92,77 C92,87 80,91 56,86 Z" />
+        <path
+            android:fillColor="#60A5FA"
+            android:pathData="M56,77 C66,74 80,75 88,80 C88,88 78,93 56,89 Z" />
+        <!-- Book Spine Center -->
+        <path
+            android:fillColor="#1E3A8A"
+            android:pathData="M52,73 L56,73 L56,92 L52,92 Z" />
+    </group>
+</vector>
